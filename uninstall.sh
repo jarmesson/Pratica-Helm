@@ -1,2 +1,2 @@
-helm uninstall redis
 helm uninstall guestbook
+helm uninstall redis
